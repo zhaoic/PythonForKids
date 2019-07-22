@@ -1,8 +1,12 @@
 ## python开发环境
 
 #### 1. 安装python
-官网https://www.python.org/downloads/，选择合适的操作系统下载
+官网https://www.python.org/downloads/ ，选择合适的操作系统下载
 目前最新版本3.7.4
+
+Window版本下载，需要先确定windows的类型是64位还是32位：
+64位：https://www.python.org/ftp/python/3.7.4/python-3.7.4-amd64.exe
+32位：https://www.python.org/ftp/python/3.7.4/python-3.7.4.exe
 
 ![image](https://user-images.githubusercontent.com/3889726/61632132-b01d8880-acbe-11e9-99fe-ab33ab18fa3d.png)
 
@@ -10,7 +14,7 @@
 #### 2. 安装pycharm
 pycharm不是必须的，但是为了简化开发过程，推荐使用开源免费版本的pycharm
 
-登录jetbrains官网， https://www.jetbrains.com/pycharm/download/，选择合适的操作系统，下载免费版本，并安装
+登录jetbrains官网， https://www.jetbrains.com/pycharm/download/ ，选择合适的操作系统，下载免费版本，并安装
 
 ![image](https://user-images.githubusercontent.com/3889726/61632277-0985b780-acbf-11e9-983b-d810f7ca27c8.png)
 
