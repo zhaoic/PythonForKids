@@ -5,7 +5,9 @@
 目前最新版本3.7.4
 
 Window版本下载，需要先确定windows的类型是64位还是32位：
+
 64位：https://www.python.org/ftp/python/3.7.4/python-3.7.4-amd64.exe
+
 32位：https://www.python.org/ftp/python/3.7.4/python-3.7.4.exe
 
 ![image](https://user-images.githubusercontent.com/3889726/61632132-b01d8880-acbe-11e9-99fe-ab33ab18fa3d.png)
